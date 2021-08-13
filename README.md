@@ -1,6 +1,7 @@
 # Front-end-Curso
 
 EBAC
+######Escola Britânica de artes criativas & tecnologia
 
 # Curso Front-end
 ## Conceitos de versionamento
