@@ -29,4 +29,29 @@ EBAC
   - git add *
   - git commit -m "mensagem"
   - git push (enviar alterações para o repositorio no github)
+  - git pull (para puxar do repositorio para sua maquina)
  ## GitFlow
+ Fluxo do código
+
+### Branchs
+São Ramificações / versões paralelas
+
+- Main / Master -> Fazer o envio apos o final da scrim (Quando o projeto é publico, vai para a publicação) 
+- develop -> Um espaço so seu (scrim = ciclo de desenvolvimento)
+
+- apos alterações em sua area develop, e o projeto estar em DOD (definition of done - Expectativas todas alcançadas)
+
+Versionamento versão 1.0.0 
+-- primeiro numero para versões muito importante
+-- apos concluido enviar para - MAIN/MASTER
+
+versionamento versão 0.2.0
+-- segundo numero para alterações mais significantes
+-- usar develop
+
+Versionamento 0.0.10  
+-- ultimo numero para pequenas alterações (bugs, correções, ortografia)
+-- usar develop
+
+## Merge
+Mescla de branchs
