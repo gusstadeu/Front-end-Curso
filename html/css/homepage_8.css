@@ -1,0 +1,251 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
+    box-sizing: border-box;
+}
+
+
+
+header{
+    
+    height: 125px;
+    background-color: #FF4802;
+}
+
+header div{
+    color: aliceblue;
+}
+
+#logo-ebac img{
+    background-color: #1C1D1E;
+    width:252.6px;
+    height: 105px;
+    padding: 15px;
+    margin: 12.5px;
+    border-radius: 20px;
+}
+
+#logo-ebac {
+    float: left;
+    width:20%;
+}
+
+#tit-conteiner{
+    float: left;
+    width:77%;
+    margin-left: 20px;
+    border-bottom: 2px solid white;
+}
+
+#tit-conteiner svg{
+    margin: 20px 30px 0px 20px;
+}
+
+#tit-conteiner h1{
+    margin: 48px;
+}
+
+
+#nav-pai{
+    height: 1500px;
+    width: 20%;
+    margin:10px ;
+    border-radius: 20px;
+    background-color: #1C1D1E;
+    float: left;
+   
+}
+
+body #home{
+    background-color: #ffffff;
+}
+
+.nav-content{
+    background-color: transparent;
+}
+
+#nav-pai .tit-nav{
+    margin: 30px 20px 10px;
+    color:aliceblue ;
+    font-size:17px ;
+    background-color: transparent;
+    padding: 5px 5px 15px;
+    border-bottom: 2px #353738 solid;
+   
+}
+
+.nav-content p{
+    font-size: 17px;
+    background-color: transparent;
+}
+.nav-content .link-nav {
+    background-color: transparent;
+    padding: 0px 10px 0px;
+    margin: 3px 10px;
+    cursor:pointer;
+}
+
+.nav-content .link-nav:hover{
+    background-color: #383737;
+    border-radius: 20px;
+    transition-duration: 0.2s;
+}
+
+
+.nav-content a{
+    color: rgb(218, 218, 218);
+    text-align: right;
+    cursor: pointer;
+    margin: 1px;
+    text-decoration:none;
+}
+
+svg{
+    float: left;
+    background-color: transparent;
+    margin-top: 15px;
+   
+}
+
+article{
+    float:right;
+    width: 78%;
+}
+
+.formatacao-texto > h1, h2, h3, h4, h5, h6{
+    margin: 35px;
+}
+.formatacao-texto p{
+    margin: 35px;
+}
+
+
+.conteiner-content {
+    padding: 2% 5% 0%;
+    background-color: transparent;
+}
+
+.conteiner-content h2{
+    margin: 7.5% 0 2.5%;
+}
+
+.conteiner-content ul,li,ol,dl,dt,dd{
+    margin: 2% 0 2% 2%;
+
+}
+
+.conteiner-content dl dt{
+    
+    margin: 15px auto;
+}
+.conteiner-content dl dd{
+    
+    margin-left:20px ;
+}
+
+#slide1{
+    width: 1000px;
+    height: 777,7px;
+}
+
+#convite-foto{
+    width: 540px;
+    height: 720px;
+    margin-left:-15px ;
+}
+
+.convite-content{
+    float: right;
+    width: 400px;
+    height:250px;
+    margin:250px 50px 0 0;
+    background-color:white;
+    text-align: center;
+    border-radius: 15px 50px;
+}
+
+.convite-content p, .botao{
+    font-size: 30px;
+    background-color: transparent;
+}
+
+.convite-content p{
+    color: #FF4802;
+    margin-top: 20px;
+}
+
+.convite-content .botao{
+    text-decoration:none;
+    background-color:#FF4802 ;
+    padding: 15px 50px 25px;
+    color: white;
+    border-radius: 20px;
+    margin: 0 111px 0px;
+}
+
+.convite-content .botao:hover{
+    background-color: #b83400;
+}
+
+.convite-content div {
+    background-color: transparent;
+    margin: 50px 0px 15px 0px;
+}
+
+.convite-content .botao2{
+    font-size:12px ;
+    background-color: #383737;
+    padding: 3px 20px;
+    border-radius: 5px;
+    color: white;
+    text-decoration:none;
+}
+
+.convite-content .botao2:hover{
+    background-color: #5a5a5a;
+    cursor:pointer;
+}
+
+footer{
+    width: 100%;
+    background-color: #1C1D1E;
+    float: right;
+}
+
+.redes-sociais p{
+    background-color: transparent;
+    color: rgb(200, 200, 200);
+    border-bottom:2px solid #2b2c2c ;
+    padding: 1px 7px 10px;
+    font-size: 14px;
+}
+
+.redes-sociais{
+    margin: 15px;
+    width: 200px;
+    padding: 15px;
+    background-color: #383737;
+    border-radius: 15px;
+    float: right;
+}
+
+.redes-sociais svg{
+    margin: 10px 5px -5px;
+    float: inherit;
+}
+
+.redes-sociais .redes-box{
+    background-color: transparent;
+    padding: 3px;
+}
+
+.redes-sociais .redes-box a{
+    background-color: transparent;
+    color: white;
+    text-decoration: none;
+}
+.redes-sociais .redes-box a:hover{
+    color: rgb(100, 100, 100); 
+}
