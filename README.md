@@ -52,3 +52,6 @@ versionamento versão 0.2.0
 Versionamento 0.0.10  
 -- ultimo numero para pequenas alterações (bugs, correções, ortografia)
 -- usar develop
+
+## Merge
+Mescla de branchs
