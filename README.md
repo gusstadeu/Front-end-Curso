@@ -22,5 +22,7 @@
  ## Commits
   Informação de alteração
   - Apos testado seu código
+  - git add *
+  - git commit -m "mensagem"
 
  ## GitFlow
